@@ -1,0 +1,9 @@
+C:\src\CadastrosProdutos\Cadastros.Infra\bin\Debug\Cadastros.Infra.dll
+C:\src\CadastrosProdutos\Cadastros.Infra\bin\Debug\Cadastros.Infra.pdb
+C:\src\CadastrosProdutos\Cadastros.Infra\bin\Debug\Cadastros.Domain.dll
+C:\src\CadastrosProdutos\Cadastros.Infra\bin\Debug\Cadastros.Domain.pdb
+C:\src\CadastrosProdutos\Cadastros.Infra\obj\Debug\Cadastros.Infra.csproj.AssemblyReference.cache
+C:\src\CadastrosProdutos\Cadastros.Infra\obj\Debug\Cadastros.Infra.csproj.CoreCompileInputs.cache
+C:\src\CadastrosProdutos\Cadastros.Infra\obj\Debug\Cadastros.Infra.csproj.CopyComplete
+C:\src\CadastrosProdutos\Cadastros.Infra\obj\Debug\Cadastros.Infra.dll
+C:\src\CadastrosProdutos\Cadastros.Infra\obj\Debug\Cadastros.Infra.pdb

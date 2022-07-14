@@ -1,0 +1,6 @@
+C:\src\CadastrosProdutos\Cadastros.Domain\bin\Debug\Cadastros.Domain.dll
+C:\src\CadastrosProdutos\Cadastros.Domain\bin\Debug\Cadastros.Domain.pdb
+C:\src\CadastrosProdutos\Cadastros.Domain\obj\Debug\Cadastros.Domain.csproj.AssemblyReference.cache
+C:\src\CadastrosProdutos\Cadastros.Domain\obj\Debug\Cadastros.Domain.csproj.CoreCompileInputs.cache
+C:\src\CadastrosProdutos\Cadastros.Domain\obj\Debug\Cadastros.Domain.dll
+C:\src\CadastrosProdutos\Cadastros.Domain\obj\Debug\Cadastros.Domain.pdb

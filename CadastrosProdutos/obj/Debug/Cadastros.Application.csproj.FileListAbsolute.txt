@@ -1,0 +1,16 @@
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\CadastrosProdutos.dll.config
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\CadastrosProdutos.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\CadastrosProdutos.pdb
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\Cadastros.Domain.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\Cadastros.Domain.pdb
+C:\src\CadastrosProdutos\CadastrosProdutos\obj\Debug\Cadastros.Application.csproj.AssemblyReference.cache
+C:\src\CadastrosProdutos\CadastrosProdutos\obj\Debug\Cadastros.Application.csproj.CoreCompileInputs.cache
+C:\src\CadastrosProdutos\CadastrosProdutos\obj\Debug\Cadastros.Application.csproj.CopyComplete
+C:\src\CadastrosProdutos\CadastrosProdutos\obj\Debug\CadastrosProdutos.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\obj\Debug\CadastrosProdutos.pdb
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\FluentValidation.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\FluentValidation.xml
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\src\CadastrosProdutos\CadastrosProdutos\bin\Debug\System.Threading.Tasks.Extensions.xml
