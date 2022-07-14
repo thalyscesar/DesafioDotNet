@@ -1,9 +1,9 @@
-#Start API
-#API cadastro de produto, utilizando .Net Framework 4.8, Injeção de dependência e Swagger para facilitar o consumo da APi.
-#O banco de dados está no formato MDF na pasta App_Data.
-#Validação usada de forma simplista com data annotation.
-#Manipulação de dados no banco através de procedures.
-#EndPoints com função de inserção, atualização, exclusão, busca geral, busca por identificador e atualização parcial.
+# Start API
+API cadastro de produto, utilizando .Net Framework 4.8, Injeção de dependência e Swagger para facilitar o consumo da APi.<br/>
+O banco de dados está no formato MDF na pasta App_Data.<br/>
+Validação usada de forma simplista com data annotation.<br/>
+Manipulação de dados no banco através de procedures.<br/>
+EndPoints com função de inserção, atualização, exclusão, busca geral, busca por identificador e atualização parcial.<br/>
 
 
 # Desafio .NET
